@@ -1,4 +1,13 @@
 # Yuoki Industries - Locales (Addon)
+
+## Source version and installation
+
+This checkout contains `yi_locales` version `1.1.0`. [info.json](info.json) declares Factorio `0.16`; this does not establish compatibility with newer Factorio versions.
+
+Select a package for your installed game version on the [Mod Portal downloads page](https://mods.factorio.com/mod/yi_locales/downloads). Portal packages may differ from this source checkout. Put the downloaded ZIP in your Factorio user data `mods` directory and install the dependencies listed in its manifest (`?` marks optional dependencies).
+
+This fork has no GitHub Releases.
+
 # XMKTP(Xagros's Mods Korean Translation Project)
 =============
 localization mod for Yuoki Industries mods for Factorio. Feel free to contribute on github!
